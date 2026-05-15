@@ -40,10 +40,10 @@ Figure 4.2: Home Screen
 Issue Reporting Screen
 This screen enables users to report streetlight issues by entering the corresponding Pole ID. The reporting process is designed to be quick and straightforward, requiring minimal input from the user. Once submitted, the complaint is recorded in the system and assigned for further processing.
 
-Figure 4.3: Issue Reporting Screen
- 
 
- <img width="576" height="1280" alt="WhatsApp Image 2026-05-15 at 9 27 26 PM (1)" src="https://github.com/user-attachments/assets/8a0e682f-a19f-4e5c-a381-25d683fabd11" />
+ 
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-15 at 9 41 18 PM" src="https://github.com/user-attachments/assets/022ee946-11c4-49b4-8427-78ccc636a02d" />
+
 
 Figure 4.3: Issue Reporting Screen
 
