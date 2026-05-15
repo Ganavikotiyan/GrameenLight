@@ -80,9 +80,6 @@ Figure 4.6: System Dashboard
 Admin Control Panel
 This screen is designed for administrative use, allowing authorized users to update the status of reported issues and mark them as resolved. It also includes options to manage or reset system data. This ensures proper maintenance and control of the system.
 
-
-  <img width="576" height="1280" alt="WhatsApp Image 2026-05-15 at 9 27 24 PM (1)" src="https://github.com/user-attachments/assets/45bd7dbb-7375-4a61-9e69-e7147354ec1a" />
-<img width="576" height="1280" alt="WhatsApp Image 2026-05-15 at 9 27 24 PM (1)" src="https://github.com/user-attachments/assets/3a2c7e97-1ec1-4a2f-b9bf-850640295cd8" />
 <img width="576" height="1280" alt="WhatsApp Image 2026-05-15 at 9 27 26 PM (2)" src="https://github.com/user-attachments/assets/b7e27842-6a11-47f8-a68d-60e6711ae155" />
 
 
