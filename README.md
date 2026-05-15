@@ -105,4 +105,4 @@ Designed with simple navigation and clear layout, making it easy for all users.
 During the development of the Grameen Light Energy project, I was actively involved in all major stages of the application. I contributed to understanding the problem statement and designing the workflow of the system.
 The application was developed using Kotlin and Android Studio, where I implemented key features such as issue reporting, complaint tracking, and streetlight status display. I also designed the user interface to ensure simplicity and usability.
 Additionally, I worked on data handling and ensured proper functionality of the application through testing and debugging. The overall performance was improved, and smooth navigation between different modules was maintained.
-Overall, I contributed to the planning, d
+Overall, I contributed to the planning.
