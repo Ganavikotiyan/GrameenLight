@@ -1,4 +1,4 @@
-<img width="179" height="441" alt="image" src="https://github.com/user-attachments/assets/4693e677-54a4-4609-b00b-ff7010a0d4be" /><img width="1000" height="1165" alt="image" src="https://github.com/user-attachments/assets/100f085e-57da-4e86-8fb1-fb720ff72d0d" />4.1	Project Title
+ alt="image" src="https://github.com/user-attachments/assets/100f085e-57da-4e86-8fb1-fb720ff72d0d" />4.1	Project Title
 Grameen Light Energy – Smart Streetlight Monitoring and Energy Management System
 
 
